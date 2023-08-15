@@ -1,13 +1,22 @@
 # ADOFAI-Helper
 
-#### 介绍
+#### 介绍/Introduce
 游戏《冰与火之舞》地图分析工具
 打开地图文件，自动分析角度和BPM 计算出延迟。再模拟按键实现外挂功能
+Map analysis tool for the game Dance of Ice and Fire
+Open the map file and automatically analyze the angle and BPM to calculate the delay. Then simulate the button to realize the plug-in function
 
-#### 执行原理
+#### 执行原理/Principle of execution.
 目前还很懒，有时间再写
 所有逻辑代码都在ParseDataUtil
-##### Demo Log
+It's still lazy at the moment, I have time to write again
+All the logic code is in ParseDataUtil。
+
+##### Notes
+请不要使用这个程序作弊！！！
+Please do not use this program to cheat!!
+
+##### 日志/Demo Log
 ```
 轨道ID:1,从:R,到:U,旋转:false,角度:90,BPM:256.000000,延迟:117ms
 轨道ID:2,从:U,到:L,旋转:false,角度:90,BPM:256.000000,延迟:117ms
