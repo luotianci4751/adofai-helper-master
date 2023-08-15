@@ -3,23 +3,27 @@
 #### 介绍/Introduce
 游戏《冰与火之舞》地图分析工具
 打开地图文件，自动分析角度和BPM 计算出延迟。再模拟按键实现外挂功能
+
 Map analysis tool for the game Dance of Ice and Fire
 Open the map file and automatically analyze the angle and BPM to calculate the delay. Then simulate the button to realize the plug-in function
 
 #### 执行原理/Principle of execution.
 目前还很懒，有时间再写
 所有逻辑代码都在ParseDataUtil
+
 It's still lazy at the moment, I have time to write again
 All the logic code is in ParseDataUtil。
 
 ##### 注意事项/Notes
 请不要使用这个程序作弊！！！
 如果出现了什么问题，后果自负。
+
 Please do not use this program to cheat!!
 If something goes wrong, do so at your own risk.
 
 ##### 提醒/remind
 我并没有删除这个代码的任何部分，如果你想使用，请不要作弊！
+
 I didn't remove any part of this code, please don't cheat if you want to use it!
 
 ##### 日志/Demo Log
